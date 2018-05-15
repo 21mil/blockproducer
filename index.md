@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Block producer
 
 You can use the [editor on GitHub](https://github.com/21mil/blockproducer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
